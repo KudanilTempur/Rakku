@@ -14,7 +14,7 @@ export default function Navbar() {
         <nav className="bg-[#0B1354] fixed w-full z-20 top-0 start-0 border-b border-[#0B1354]">
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
 
-                <Link href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
+                <Link href="#hero" className="flex items-center space-x-3 rtl:space-x-reverse">
                     <span className="self-center text-xl font-bold whitespace-nowrap text-white">Rakku</span>
                 </Link>
 
